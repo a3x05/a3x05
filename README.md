@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte, AngularJS, React, Rust**
 
-- 👨‍💻 All of my projects are available at [this Github profile](this Github profile)
+- 👨‍💻 All of my projects are available at this Github profile
 
 - 📫 How to reach me **a3x05v1@gmx.net**
 
